@@ -3,6 +3,9 @@
 A simple **terminal-based calculator** written in **Python** with colorful output using the `colorama` module.  
 This project is perfect for **beginners** to practice Python functions, loops, exception handling, and working with modules.
 
+# Calculator view:
+![Calculator Demo](calculator1.gif)
+
 ---
 ## **Features**
 - Addition ➕
